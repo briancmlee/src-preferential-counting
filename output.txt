@@ -1,0 +1,69 @@
+Determining the winner of Round 1:
+Round 1
+Candidate 6: [56, 25, 22, 23, 19, 38]
+Candidate 5: [24, 48, 39, 30, 24, 18]
+Candidate 4: [52, 30, 37, 22, 24, 18]
+Candidate 3: [17, 39, 35, 39, 36, 17]
+Candidate 2: [7, 14, 19, 33, 57, 53]
+Candidate 1: [27, 27, 31, 36, 23, 39]
+Candidate 2 is eliminated
+
+Round 2
+Candidate 6: [56, 28, 23, 30, 46]
+Candidate 5: [24, 52, 44, 41, 22]
+Candidate 4: [52, 36, 38, 30, 27]
+Candidate 3: [22, 36, 42, 49, 34]
+Candidate 1: [29, 31, 36, 33, 54]
+Candidate 3 is eliminated
+
+Round 3
+Candidate 6: [59, 31, 40, 53]
+Candidate 5: [26, 69, 65, 23]
+Candidate 4: [61, 41, 42, 39]
+Candidate 1: [37, 42, 36, 68]
+Candidate 5 is eliminated
+
+Round 4
+Candidate 6: [68, 49, 66]
+Candidate 4: [71, 68, 44]
+Candidate 1: [44, 66, 73]
+Candidate 1 is eliminated
+
+Round 5
+Candidate 6: [83, 100]
+Candidate 4: [100, 83]
+Candidate 6 is eliminated
+
+First Winner is Candidate 4
+
+
+
+
+Determining the winner of Round 2:
+Round 2
+Candidate 6: [67, 30, 24, 22, 40]
+Candidate 5: [42, 54, 33, 31, 23]
+Candidate 3: [32, 48, 41, 38, 24]
+Candidate 2: [8, 19, 37, 62, 57]
+Candidate 1: [34, 32, 48, 30, 39]
+Candidate 2 is eliminated
+
+Round 3
+Candidate 6: [67, 34, 32, 50]
+Candidate 5: [43, 58, 50, 32]
+Candidate 3: [37, 49, 52, 45]
+Candidate 1: [36, 42, 49, 56]
+Candidate 1 is eliminated
+
+Round 4
+Candidate 6: [77, 45, 61]
+Candidate 5: [53, 83, 47]
+Candidate 3: [53, 55, 75]
+Candidate 3 is eliminated
+
+Round 5
+Candidate 6: [94, 89]
+Candidate 5: [89, 94]
+Candidate 5 is eliminated
+
+Second Winner is Candidate 6
